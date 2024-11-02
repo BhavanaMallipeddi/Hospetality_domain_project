@@ -8,6 +8,7 @@ The Managing Director of Atliq Grand aims to regain market share and revenue by 
 
 
 # Dashboard
+![Dashboard](https://github.com/BhavanaMallipeddi/Hospetality_domain_project/blob/main/Final%20Dashboard.png)
 1-Most revenue is generated from Mumbai city by 39.1% (785M).
 
 2-Hotels in Bangalore are most booked.
