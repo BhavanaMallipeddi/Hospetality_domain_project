@@ -4,6 +4,7 @@ Atliq Grand is experiencing a decline in market share and revenue within the bus
 The Managing Director of Atliq Grand aims to regain market share and revenue by implementing data-driven decisions.
 
 # Data Modelling
+![Data Model](https://github.com/BhavanaMallipeddi/Hospetality_domain_project/blob/main/Data%20Modelling.png)
 
 
 # Dashboard
